@@ -18,8 +18,8 @@
 #endif
 
 // Yükseklik genişlik ve iterasyon sayısını ayarlama
-#define WIDTH 100000
-#define HEIGHT 100000
+#define WIDTH 1920
+#define HEIGHT 1080
 #define MAX_ITER 1000
 
 // CUDA için kernelda global değişkeni kullanılarak mandelbrot hesaplanmıştır
